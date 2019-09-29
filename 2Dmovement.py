@@ -34,11 +34,4 @@ while x > 0:
     
     break
 
-''' 3 Dimensional Movement
-for i in range(0,1000):
-    canvas.create_line(500,300, 200, 200)
-
-#Line = canvas.create_line(500,300,100,100)
-
-'''
 tk.mainloop()
