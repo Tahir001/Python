@@ -5,6 +5,8 @@ A few scripts written in python for fun.
 
 **Machine Learning:** Some tutorials, practice and implementation of ML models
 
-- Millenium Classification: Given a song from any decade, classify which century it is from
+- Projects: 
+  - Millenium Classification: Given a song from any decade, classify which century it is from
+  - Fortune Teller: Given 3 words, the model will guess what your next word will be with 82% accuracy
 
 Please go into the folder you wish to explore. 
