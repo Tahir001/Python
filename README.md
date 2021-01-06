@@ -14,7 +14,7 @@ A few scripts written in python for fun, to learn and to help others learn.
 
 - Projects: 
   - Assignment 1: Numpy basics, vectorized code, linear and logistic regression, K-nearest neighbours algorithm (KNN)
-  - Assignment 2: Polynomial Regression, K-Fold Cross Validation, Naive bayes, Linear & Quadratic Discriminant Analysis, Gradient &Stochastic Gradient descent,           Neural networks
+  - Assignment 2: Polynomial Regression, K-Fold Cross Validation, Naive bayes, Linear & Quadratic Discriminant Analysis, Gradient & Stochastic Gradient descent,           Neural networks
   - Assignment 3: Principal Component Analysis, Bootstrap methods, Ensemble learning, K-Means Clustering from scratch. 
 
 Please go into the folder you wish to explore. 
