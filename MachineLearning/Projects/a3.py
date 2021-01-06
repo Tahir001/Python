@@ -2,7 +2,6 @@
 Created on Tue Nov 10 20:25:12 2020
 
 @author: Tahir Muhammad
-@StudentID: 1002537613
 """
 
 # import relevant libraries
