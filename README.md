@@ -1,5 +1,5 @@
 # Python
-A few scripts written in python for fun, to learn and to help others learn.
+Machine Learning Tutorials and Algorithm Implementations to learn and help others learn. 
 
 **Calculus Animations:** Some working scripts in python to illustrate dimensions in the real world.
 
