@@ -3,7 +3,6 @@ def maxSubArray(nums):
     :type nums: List[int]
     :rtype: int
     """
-
     # Kadane's Algorithm - O(N) time complexity
     # Goal is to do 1 pass
     # Essentially keeping a running total and if its less than 0, disregard it and start again
