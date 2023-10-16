@@ -2,7 +2,7 @@ def removeDuplicatesFromSortedArray(nums):
     """
     :type nums: List[int]
     :rtype: int
-    LeetCode #26: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+    Leetcode #26: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
     """
     # Array is sorted...
     # Keep track of if it already exists in the array... # Hashmap ?
