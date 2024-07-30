@@ -22,6 +22,5 @@ class TreeMaze:
             return True
         if self.path_exsists(root.right):
             return True 
-
         return False 
 
