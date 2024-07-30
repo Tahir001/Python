@@ -7,3 +7,8 @@
 
 # Stacks 
 1. Baseball game 
+
+# Backtracking (Depth First Search)
+1. Tree Maze
+2. Path Sum
+
