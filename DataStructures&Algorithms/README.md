@@ -16,5 +16,5 @@
 # Graphs
 1. DFS Traversal
 2. BFS Traversal 
-2. DFS Traversal (Recursion)
+3. Has Path
 
