@@ -1,12 +1,15 @@
+from collections import deque
+
 def graph_bfs_traversal(graph, source):
     
     # Here the graph is represented as an Adjacency List
-    queue = [source]
+    queue = deque([source])
     result = []
     visited = set()
 
     while queue:
-        current_node = queue.pop(0)
+        
+        current_node = queue.popleft()
 
         if current_node not in visited:
             # Add it to the result and set
@@ -15,9 +18,9 @@ def graph_bfs_traversal(graph, source):
 
             # Now let's explore this node
             for neighbour in graph[current_node]:
-                # Get all of its neighbours
+                # Get all of its neighbours if they are not in visited set 
                 if neighbour not in visited:
-                    queue.append(neighbour)
+                    queue.append(neighbour) 
 
     return result 
 

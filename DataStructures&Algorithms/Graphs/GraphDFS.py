@@ -16,7 +16,8 @@ def graph_dfs_traversal(graph, source):
             # Now lets explore this node 
             for nieghbour in graph[current_node]:
                 # Get all of it's neighbours
-                stack.append(nieghbour)
+                if nieghbour not in visited:
+                    stack.append(nieghbour)
     return result 
 
 # Lets try it out on an example:
